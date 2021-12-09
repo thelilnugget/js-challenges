@@ -15,3 +15,9 @@ Returns: 25
 */
 
 //Start writing your code.
+function sumArray(caseIsAnnoying) 
+{
+    const meaningfulVariableName = [];
+    
+
+}

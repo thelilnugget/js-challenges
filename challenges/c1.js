@@ -17,5 +17,15 @@ Returns: [3,3,3]
 //You get this template for free, you will be expected to create the function definitions yourself from now on.
 function makeArray(arrayLength)
 {
-    //Solution goes here.
+    const briansDumbArray = [];
+
+    for (let idx = 0; idx < arrayLength; idx++)
+    {
+        briansDumbArray.push(arrayLength);
+    }
+
+    return briansDumbArray;
 }
+
+const slut = {name: 'BITCH ASS CASE'}
+//i can declare variables....Case doubted me.
